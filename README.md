@@ -47,10 +47,10 @@
       - S : 14,16%
       - XL,XXL : 0.3% 
 - Tổng doanh thu được bán theo thể loại:
-       - Classic : 7,9%
-       - Supreme : 30,05%
-       - Veggie  : 20,85%
-       - Chicken : 7,9%
+   - Classic : 7,9%
+   - Supreme : 30,05%
+   - Veggie  : 20,85%
+   - Chicken : 7,9%
   
   ---
   

@@ -9,8 +9,12 @@
     - Tính tổng doanh thu
     - Tính số lượng pizza được bán ra
     
-  ---
+---
+  ![image](https://github.com/quocquang/Marketing-Strategy-Analysis/assets/87820013/54518f53-3e18-4325-bd5e-3167e9e06a42)
   
+---
+   
+   
 # Kết quả 
 - Tổng số lượng đơn hàng là : 21350
 - Tổng doanh thu là : 45721718
